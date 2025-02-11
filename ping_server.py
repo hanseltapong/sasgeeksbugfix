@@ -22,4 +22,7 @@ if name == "main":
 
     server_to_ping = sys.argv[1]
     ping_server(server_to_ping)
+    welcome.sh
+    payment gateway.sh
+    
 
